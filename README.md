@@ -35,5 +35,3 @@ Download the appropriate installer for your setup from the links below:
 For detailed instructions, usage guidelines, and a comprehensive feature report, please refer to the documentation provided:
 
 - **Report**: [View Report](https://drive.google.com/drive/folders/185O5gpF0_EKI380CtnB6A0AK-Tph2Uz-?usp=sharing)
-
----
